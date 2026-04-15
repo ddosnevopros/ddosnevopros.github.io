@@ -1,1 +1,1 @@
-alert('tst')
+alert(0)
